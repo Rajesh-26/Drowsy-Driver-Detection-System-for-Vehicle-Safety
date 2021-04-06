@@ -40,3 +40,6 @@ The algorithm has four stages:
 a. Haar Feature selection
 b. Creating an Integral Image
 2) Edge detection (Sobel edge operator)
+
+#Summary
+Simply put, our system will detect the srowsyness of driver via live feed and rangs an alarm if it predicts thtat the driver is drowsy
